@@ -1,0 +1,10 @@
+hu\gde\runnersdemo\RunnerService.class
+hu\gde\runnersdemo\DataLoader.class
+hu\gde\runnersdemo\LapTimeEntity.class
+hu\gde\runnersdemo\RunnersdemoApplication.class
+hu\gde\runnersdemo\LapTimeRepository.class
+hu\gde\runnersdemo\RunnerRestController$LapTimeRequest.class
+hu\gde\runnersdemo\RunnerController.class
+hu\gde\runnersdemo\RunnerRestController.class
+hu\gde\runnersdemo\RunnerRepository.class
+hu\gde\runnersdemo\RunnerEntity.class
